@@ -4,7 +4,7 @@ Offline phone-to-phone emergency mesh for disasters. No internet, SIM, or router
 
 **How to use this file:** Put it in the project root. Give your VS Code coding agent the prompt in section 0, then follow the phases in order. Phase 1 is the only thing to build first. Everything else is a later phase.
 
----
+-----
 
 ## 0. Prompt to paste into the VS Code agent
 
